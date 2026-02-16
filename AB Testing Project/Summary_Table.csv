@@ -1,0 +1,3 @@
+group,users,conversions,conversion_rate,avg_order_value,revenue_per_user
+control,5000,393,0.0786,97.40644985704034,7.656146958763369
+test,5000,487,0.0974,93.3562285170946,9.092896657565017
